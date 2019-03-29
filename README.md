@@ -1,1 +1,1 @@
-# IocDemo
+# Bind Android views and callbacks to methods.
